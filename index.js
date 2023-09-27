@@ -16,7 +16,7 @@ const characters = ["A","B","C","D","E","F",
                     ">",".","?",
 "/"]
 
-let pwlength = 8
+let pwlength = 15
 let output1 = document.getElementById("output-el-1")
 let output2 = document.getElementById("output-el-2")
 
